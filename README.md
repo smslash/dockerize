@@ -18,6 +18,8 @@ Here `image_name` is the name you want to assign to your image. The dot at the e
 docker run -d -p 4000:4000 image_name
 ```
 
+Then open link [http://127.0.0.1:4000](http://127.0.0.1:4000) in your browser.
+
 ## Objectives
 
 You must follow the same [principles](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art-web/README.md) as the first subject.
