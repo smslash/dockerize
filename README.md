@@ -9,13 +9,13 @@ A dockerfile to run the ascii-art-web
 ## Run 
 
 ```bash
-docker build -t your_image_name .
+docker build -t image_name .
 ```
 
-Here `your_image_name` is the name you want to assign to your image. The dot at the end of the command points to the current directory where the Dockerfile should be located.
+Here `image_name` is the name you want to assign to your image. The dot at the end of the command points to the current directory where the Dockerfile should be located.
 
 ```bash
-docker run your_image_name
+docker run -d -p 4000:4000 image_name
 ```
 
 ## Objectives
