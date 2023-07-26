@@ -57,7 +57,6 @@ The basics of web :
 - Server
 - HTML
 - HTTP
-
 - Ways to receive data.
 - Ways to output data.
 - Learning what is [docker](https://docs.docker.com/).
